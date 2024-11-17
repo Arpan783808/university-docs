@@ -1,0 +1,11 @@
+google application:
+{
+email:arpantomar2018@gmail.com (spare->for applying to jobs)
+phone:7838080418
+}
+
+google referral{
+email:arpanslash2023@gmail.com (main->for referrals)
+phone:7838080418
+applied through this email to google swe intern 2025 after accepting referral.Let's hope for the best and prepare that way
+}

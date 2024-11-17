@@ -1,0 +1,158 @@
+@import url("https://fonts.googleapis.com/css2?family=League+Spartan:wght@100..900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+.App{
+    min-height: 150vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #133E87; 
+    /* background-color: #8198ff;  */
+    /* padding-top:20px; */
+}
+.upload{
+    height:450px;
+    width:90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #042a6b;
+    border-radius: 20px;
+    gap:20px;
+}
+.logoutdiv{
+    position:absolute;
+    left:90%;
+    top:30px;
+    color:white;
+    font-size: 30px; 
+}
+.logout{
+    height:50px;
+    width:50px;
+    cursor:pointer;
+}
+.App h1{
+    font-family: "Anton",sans-serif;
+    font-size:100px;
+    color:white;
+}
+
+.upload button{
+    height:40px;
+    width:100px;
+    border-radius: 15px;
+    background-color: #CBDCEB;
+    border:none;
+    cursor:pointer;
+    font-size:15px;
+}
+.upload button:hover{
+    background-color: #042a6b;
+    border-color:#ffffff;
+    color:white;
+}
+.filetable{
+    display: flex;
+    width:95%;
+    /* min-height:1000px; */
+    background-color: #042a6b;
+    border-radius: 20px;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    gap:30px;
+    margin-bottom: 40px;
+}
+.fileone{
+    margin-top:20px;
+    border-radius: 15px;
+    /* background-color:#042a6b; */
+    display:flex;
+    width:95%;
+    justify-content: center;
+    align-items: center;
+    gap:30px;
+    
+    font-size: 30px;
+    color: white;
+}
+.fileone div{
+    display: flex;
+    width:35%;
+    height: 100px;
+    border-radius: 15px;
+    text-align: center;
+    background-color:#133E87;
+    /* height:100px; */
+    justify-content: center;
+    align-items: center;
+}
+.App h2{
+    color:white;
+    font-family: "League Spartan",sans-serif;
+    font-size:50px;
+}
+.filetable1{
+    display: flex;
+    width:95%;
+    /* min-height:1000px; */
+    background-color: #042a6b;
+    border-radius: 20px;
+    justify-content: flex-start;
+    align-items: center;
+    flex-direction: column;
+    gap:30px;
+    margin-bottom: 40px;
+}
+.fileone1{
+    margin-top:20px;
+    border-radius: 15px;
+    /* background-color:#042a6b; */
+    display:flex;
+    width:95%;
+    justify-content: center;
+    align-items: center;
+    gap:30px;
+    
+    font-size: 30px;
+    color: white;
+}
+.fileone1 div{
+    display: flex;
+    width:35%;
+    height: 100px;
+    border-radius: 15px;
+    text-align: center;
+    background-color:#133E87;
+    /* height:100px; */
+    justify-content: center;
+    align-items: center;
+}
+
+.fulladmin{
+    min-width: 10vh;
+    width:100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.fileone1 div button{
+    height:50px;
+    width:150px;
+    border-radius: 10px;
+    background-color: #042a6b;
+    color:white;
+    font-size: 20px;
+    border: none;
+    cursor: pointer;
+}
+.fileone1 div button:hover{
+    background-color: #236ded;
+}
+.fileone1 a{
+    color:white;
+}
