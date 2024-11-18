@@ -1,3 +1,16 @@
+# SIGNDESK-Digital Signatures
+### OVERVIEW
+
+Our platform is a University Document Management System (UDMS) designed to revolutionize the way academic institutions handle their documentation processes. By leveraging cutting-edge technologies, including digital signatures, and automation, our system ensures secure, efficient, and transparent management of academic documents.
+
+
+### Features
+1.User authentication (Role based access control)
+2.Secure Document Certification
+3.Document upload of any type(pdf,jpg,xlxs,doc)
+4.Digital Signatures: Streamlined approval processes with authenticated e-signatures.
+5.Document view for validation.
+
 ### Technologies Used
 
 #### Frontend: React, Axios
@@ -15,8 +28,7 @@
 
 ### Prerequisites
 1. Node.js and npm installed on your machine
-2. Docker and Docker Compose installed
-3. MongoDB Atlas account
+2. MongoDB Atlas account
 
 ## Installation
 
