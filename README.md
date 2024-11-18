@@ -5,10 +5,14 @@ Our platform is a University Document Management System (UDMS) designed to revol
 
 
 ### Features
-1.User authentication (Role based access control)
-2.Secure Document Certification
-3.Document upload of any type(pdf,jpg,xlxs,doc)
+1.User authentication (Role based access control).
+
+2.Secure Document Certification.
+
+3.Document upload of any type(pdf,jpg,xlxs,doc).
+
 4.Digital Signatures: Streamlined approval processes with authenticated e-signatures.
+
 5.Document view for validation.
 
 ### Technologies Used
