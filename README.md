@@ -80,3 +80,9 @@ nodemon index.js
 npm start
 ```
 
+![Screenshot 2024-11-17 184040](https://github.com/user-attachments/assets/df5f7b7e-a5e8-49eb-9366-cba4bbaa4484)
+![Screenshot 2024-11-17 184020](https://github.com/user-attachments/assets/792b103d-f042-4b99-b3fa-251a960c8fdd)
+![Screenshot 2024-11-17 183057](https://github.com/user-attachments/assets/110404b0-0ec3-4f1c-9f5e-22d05fd43d3b)
+![Screenshot 2024-11-17 183116](https://github.com/user-attachments/assets/a02831a5-b3e3-4dd9-b99e-9e30e54f61b2)
+![Screenshot 2024-11-17 183503](https://github.com/user-attachments/assets/69a787c7-ec90-497e-b30d-9b325657cffe)
+
